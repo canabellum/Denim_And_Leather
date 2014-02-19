@@ -39,7 +39,7 @@ public class DenimAndLeather implements ApplicationListener {
 	public void dispose() {
 		batch.dispose();
 		texture.dispose();
-	}
+	} //commit
 
 	@Override
 	public void render() {		
